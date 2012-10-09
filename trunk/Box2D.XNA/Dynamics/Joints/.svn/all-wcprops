@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/nlas/!svn/ver/11/trunk/Box2D.XNA/Dynamics/Joints
+END
+PullyJoint.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/nlas/!svn/ver/11/trunk/Box2D.XNA/Dynamics/Joints/PullyJoint.cs
+END
+RevoluteJoint.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/nlas/!svn/ver/11/trunk/Box2D.XNA/Dynamics/Joints/RevoluteJoint.cs
+END
+LineJoint.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/nlas/!svn/ver/11/trunk/Box2D.XNA/Dynamics/Joints/LineJoint.cs
+END
+MouseJoint.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/nlas/!svn/ver/11/trunk/Box2D.XNA/Dynamics/Joints/MouseJoint.cs
+END
+DistanceJoint.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/nlas/!svn/ver/11/trunk/Box2D.XNA/Dynamics/Joints/DistanceJoint.cs
+END
+PrismaticJoint.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/nlas/!svn/ver/11/trunk/Box2D.XNA/Dynamics/Joints/PrismaticJoint.cs
+END
+WeldJoint.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/nlas/!svn/ver/11/trunk/Box2D.XNA/Dynamics/Joints/WeldJoint.cs
+END
+FrictionJoint.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/nlas/!svn/ver/11/trunk/Box2D.XNA/Dynamics/Joints/FrictionJoint.cs
+END
+GearJoint.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/nlas/!svn/ver/11/trunk/Box2D.XNA/Dynamics/Joints/GearJoint.cs
+END
+Joint.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/nlas/!svn/ver/11/trunk/Box2D.XNA/Dynamics/Joints/Joint.cs
+END
+MaxDistanceJoint.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/nlas/!svn/ver/11/trunk/Box2D.XNA/Dynamics/Joints/MaxDistanceJoint.cs
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/nlas/!svn/ver/221/android
+END
+proguard.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/nlas/!svn/ver/220/android/proguard.cfg
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/nlas/!svn/ver/220/android/project.properties
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/nlas/!svn/ver/220/android/AndroidManifest.xml
+END

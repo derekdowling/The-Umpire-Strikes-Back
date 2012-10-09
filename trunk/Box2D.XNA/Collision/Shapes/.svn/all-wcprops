@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/nlas/!svn/ver/11/trunk/Box2D.XNA/Collision/Shapes
+END
+LoopShape.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/nlas/!svn/ver/11/trunk/Box2D.XNA/Collision/Shapes/LoopShape.cs
+END
+Shape.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/nlas/!svn/ver/11/trunk/Box2D.XNA/Collision/Shapes/Shape.cs
+END
+CircleShape.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/nlas/!svn/ver/11/trunk/Box2D.XNA/Collision/Shapes/CircleShape.cs
+END
+EdgeShape.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/nlas/!svn/ver/11/trunk/Box2D.XNA/Collision/Shapes/EdgeShape.cs
+END
+PolygonShape.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/nlas/!svn/ver/11/trunk/Box2D.XNA/Collision/Shapes/PolygonShape.cs
+END

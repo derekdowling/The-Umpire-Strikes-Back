@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/nlas/!svn/ver/218/trunk/NLAS_game/NLAS_game/NLAS_game
+END
+Baseball.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/nlas/!svn/ver/139/trunk/NLAS_game/NLAS_game/NLAS_game/Baseball.cs
+END
+Bat.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/nlas/!svn/ver/64/trunk/NLAS_game/NLAS_game/NLAS_game/Bat.cs
+END
+Program.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/nlas/!svn/ver/5/trunk/NLAS_game/NLAS_game/NLAS_game/Program.cs
+END
+DynamicPhysicsGameObject.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/nlas/!svn/ver/150/trunk/NLAS_game/NLAS_game/NLAS_game/DynamicPhysicsGameObject.cs
+END
+Trashbin.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/nlas/!svn/ver/153/trunk/NLAS_game/NLAS_game/NLAS_game/Trashbin.cs
+END
+Button.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/nlas/!svn/ver/157/trunk/NLAS_game/NLAS_game/NLAS_game/Button.cs
+END
+Game.ico
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/nlas/!svn/ver/5/trunk/NLAS_game/NLAS_game/NLAS_game/Game.ico
+END
+Popcan.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/nlas/!svn/ver/64/trunk/NLAS_game/NLAS_game/NLAS_game/Popcan.cs
+END
+Popcorn.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/nlas/!svn/ver/64/trunk/NLAS_game/NLAS_game/NLAS_game/Popcorn.cs
+END
+NLAS_game.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/nlas/!svn/ver/181/trunk/NLAS_game/NLAS_game/NLAS_game/NLAS_game.csproj
+END
+Vuvuzela.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/nlas/!svn/ver/64/trunk/NLAS_game/NLAS_game/NLAS_game/Vuvuzela.cs
+END
+SoundManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/nlas/!svn/ver/206/trunk/NLAS_game/NLAS_game/NLAS_game/SoundManager.cs
+END
+UmpireHitEffect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/nlas/!svn/ver/170/trunk/NLAS_game/NLAS_game/NLAS_game/UmpireHitEffect.cs
+END
+HotDog.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/nlas/!svn/ver/64/trunk/NLAS_game/NLAS_game/NLAS_game/HotDog.cs
+END
+Foulpole.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/nlas/!svn/ver/126/trunk/NLAS_game/NLAS_game/NLAS_game/Foulpole.cs
+END
+Game1.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/nlas/!svn/ver/218/trunk/NLAS_game/NLAS_game/NLAS_game/Game1.cs
+END
+PhysicsBox.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/nlas/!svn/ver/125/trunk/NLAS_game/NLAS_game/NLAS_game/PhysicsBox.cs
+END
+GameThumbnail.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/nlas/!svn/ver/156/trunk/NLAS_game/NLAS_game/NLAS_game/GameThumbnail.png
+END
+Background.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/nlas/!svn/ver/181/trunk/NLAS_game/NLAS_game/NLAS_game/Background.png
+END
+CashRewardEffect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/nlas/!svn/ver/170/trunk/NLAS_game/NLAS_game/NLAS_game/CashRewardEffect.cs
+END
+GameObject.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/nlas/!svn/ver/158/trunk/NLAS_game/NLAS_game/NLAS_game/GameObject.cs
+END
+Umpire.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/nlas/!svn/ver/126/trunk/NLAS_game/NLAS_game/NLAS_game/Umpire.cs
+END
+PhysicsCircle.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/nlas/!svn/ver/128/trunk/NLAS_game/NLAS_game/NLAS_game/PhysicsCircle.cs
+END
